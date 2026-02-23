@@ -32,4 +32,4 @@ for instance in $@
         
         echo "IP Address: $IP"
    
- done  
+   done  
